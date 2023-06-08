@@ -152,9 +152,9 @@ body {
 }
 
 .vid-content iframe {
-    mix-blend-mode: normal;
+    
     text-decoration: none;
-    border: 0;
+    
     
     width: calc((100vw / 35) * 5);
     height: calc((100vh / 11) * 1.6);
@@ -221,7 +221,7 @@ footer {
     margin-left: auto;
     margin-right: 7.5vw;
    
-    color: white;
+    
     display: flex;
     align-items: center;
 }
@@ -262,7 +262,7 @@ header {
     height: 6vh;
     margin: 0px;
     padding: 0;
-    color: white;
+    
 }
 
 .header-box {
@@ -330,7 +330,7 @@ header {
     flex-direction: column;
     
     /*height: 60%;*/
-    mix-blend-mode: normal;
+    
 }
 
 .image-content img{
@@ -347,7 +347,7 @@ header {
     flex-direction: row;
     mix-blend-mode: lighten;
     /*height: 10vh;*/
-    color: white;
+    
     font-size: 2rem;
     
     /*height: 90%; !! HINZUGEFÜGT, CHECKEN OB SACHEN KAPUTTGEHEN*/
